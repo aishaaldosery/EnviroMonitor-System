@@ -6,7 +6,7 @@ This is a PhD research project based at [University College London](https://www.
 
 Author: Aisha Aldosery
 
-Feel free to drop me an email ([aldosery0@gmail.com](mailto:aldosery0@gmail.com), [aaldosery@kacst.gov.sa](mailto:aaldosery@kacst.gov.sa)) with any questions, and contributions to this codebase or similar environmental projects are always welcome.
+Feel free to [drop me an email](mailto:aldosery0@gmail.com,aaldosery@kacst.gov.sa) with any questions and contributions to this codebase or similar environmental projects are always welcome.
 
 ## Citations
 Please cite the below paper when referring to this work:
